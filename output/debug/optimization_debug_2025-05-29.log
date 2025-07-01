@@ -1,0 +1,72 @@
+DEBUG 2025-05-29: Starting optimization
+DEBUG 2025-05-29: Current travel = 5.0 minutes
+DEBUG 2025-05-29: Total tours = 4
+DEBUG 2025-05-29: Available agents = 3
+DEBUG 2025-05-29: Tour times range from 2025-05-29 15:30:00 to 2025-05-29 20:15:00
+DEBUG 2025-05-29: Processing tour 1/4: 2025-05-29 15:30:00 at Property 64934 (ESCORTED)
+DEBUG 2025-05-29: Tour 1 assigned to 25ffdb26
+DEBUG 2025-05-29: Travel time = 0.0 minutes
+DEBUG 2025-05-29: Processing tour 2/4: 2025-05-29 16:30:00 at Property 64943 (ESCORTED)
+DEBUG 2025-05-29: Tour 2 assigned to 0c398d8d
+DEBUG 2025-05-29: Travel time = 0.0 minutes
+DEBUG 2025-05-29: Processing tour 3/4: 2025-05-29 18:00:00 at Property 78139 (ESCORTED)
+DEBUG 2025-05-29: Tour 3 assigned to 25ffdb26
+DEBUG 2025-05-29: Travel time = 5.0 minutes
+DEBUG 2025-05-29: Processing tour 4/4: 2025-05-29 19:00:00 at Property 64940 (ESCORTED)
+DEBUG 2025-05-29: Tour 4 assigned to 90976d80
+DEBUG 2025-05-29: Travel time = 0.0 minutes
+DEBUG 2025-05-29: Optimized travel = 5.0 minutes
+DEBUG 2025-05-29: Savings = 0.0 minutes
+DEBUG 2025-05-29: Reassignments made = 0/4
+DEBUG 2025-05-29: Optimization complete
+================================================================================
+DEBUG 2025-05-29: Starting optimization
+DEBUG 2025-05-29: Current travel = 5.0 minutes
+DEBUG 2025-05-29: Total tours = 4
+DEBUG 2025-05-29: Available agents = 3
+DEBUG 2025-05-29: Tour times range from 2025-05-29 15:30:00 to 2025-05-29 20:15:00
+DEBUG 2025-05-29: Processing tour 1/4: 2025-05-29 15:30:00 at Property 64934 (ESCORTED)
+DEBUG 2025-05-29: Tour 1 assigned to 25ffdb26
+DEBUG 2025-05-29: Travel time = 0.0 minutes
+DEBUG 2025-05-29: Processing tour 2/4: 2025-05-29 16:30:00 at Property 64943 (ESCORTED)
+DEBUG 2025-05-29: Tour 2 assigned to 0c398d8d
+DEBUG 2025-05-29: Travel time = 0.0 minutes
+DEBUG 2025-05-29: Processing tour 3/4: 2025-05-29 18:00:00 at Property 78139 (ESCORTED)
+DEBUG 2025-05-29: Tour 3 assigned to 25ffdb26
+DEBUG 2025-05-29: Travel time = 5.0 minutes
+DEBUG 2025-05-29: Processing tour 4/4: 2025-05-29 19:00:00 at Property 64940 (ESCORTED)
+DEBUG 2025-05-29: Tour 4 assigned to 90976d80
+DEBUG 2025-05-29: Travel time = 0.0 minutes
+DEBUG 2025-05-29: Optimized travel = 5.0 minutes
+DEBUG 2025-05-29: Savings = 0.0 minutes
+DEBUG 2025-05-29: Reassignments made = 0/4
+DEBUG 2025-05-29: Optimization complete
+================================================================================
+DEBUG 2025-05-29: Calculated optimized travel (sum method): 5.0
+DEBUG 2025-05-29: Validated optimized travel (proven method): 5.0
+DEBUG 2025-05-29: Difference: 0.0
+DEBUG 2025-05-29: Validated savings: 0.0
+DEBUG 2025-05-29: Starting optimization
+DEBUG 2025-05-29: Current travel = 5.0 minutes
+DEBUG 2025-05-29: Total tours = 4
+DEBUG 2025-05-29: Available agents = 3
+DEBUG 2025-05-29: Tour times range from 2025-05-29 15:30:00 to 2025-05-29 20:15:00
+DEBUG 2025-05-29: Processing tour 1/4: 2025-05-29 15:30:00 at Property 64934 (ESCORTED)
+DEBUG 2025-05-29: Tour 1 assigned to 25ffdb26
+DEBUG 2025-05-29: Travel time = 0.0 minutes
+DEBUG 2025-05-29: Processing tour 2/4: 2025-05-29 16:30:00 at Property 64943 (ESCORTED)
+DEBUG 2025-05-29: Tour 2 assigned to 0c398d8d
+DEBUG 2025-05-29: Travel time = 0.0 minutes
+DEBUG 2025-05-29: Processing tour 3/4: 2025-05-29 18:00:00 at Property 78139 (ESCORTED)
+DEBUG 2025-05-29: Tour 3 assigned to 25ffdb26
+DEBUG 2025-05-29: Travel time = 5.0 minutes
+DEBUG 2025-05-29: Processing tour 4/4: 2025-05-29 19:00:00 at Property 64940 (ESCORTED)
+DEBUG 2025-05-29: Tour 4 assigned to 90976d80
+DEBUG 2025-05-29: Travel time = 0.0 minutes
+DEBUG 2025-05-29: Calculated optimized travel (sum method): 5.0
+DEBUG 2025-05-29: Validated optimized travel (proven method): 5.0
+DEBUG 2025-05-29: Difference: 0.0
+DEBUG 2025-05-29: Validated savings: 0.0
+DEBUG 2025-05-29: Reassignments made = 0/4
+DEBUG 2025-05-29: Optimization complete
+================================================================================

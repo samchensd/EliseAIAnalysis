@@ -1,0 +1,54 @@
+DEBUG 2025-05-11: Starting optimization
+DEBUG 2025-05-11: Current travel = 0.0 minutes
+DEBUG 2025-05-11: Total tours = 2
+DEBUG 2025-05-11: Available agents = 2
+DEBUG 2025-05-11: Tour times range from 2025-05-11 16:00:00 to 2025-05-11 17:45:00
+DEBUG 2025-05-11: Processing tour 1/2: 2025-05-11 16:00:00 at Property 64939 (ESCORTED)
+DEBUG 2025-05-11: Tour 1 assigned to 25ffdb26
+DEBUG 2025-05-11: Travel time = 0.0 minutes
+DEBUG 2025-05-11: Processing tour 2/2: 2025-05-11 17:15:00 at Property 64942 (ESCORTED)
+DEBUG 2025-05-11: Tour 2 assigned to 2d4a3e78
+DEBUG 2025-05-11: Travel time = 0.0 minutes
+DEBUG 2025-05-11: Optimized travel = 0.0 minutes
+DEBUG 2025-05-11: Savings = 0.0 minutes
+DEBUG 2025-05-11: Reassignments made = 0/2
+DEBUG 2025-05-11: Optimization complete
+================================================================================
+DEBUG 2025-05-11: Starting optimization
+DEBUG 2025-05-11: Current travel = 0.0 minutes
+DEBUG 2025-05-11: Total tours = 2
+DEBUG 2025-05-11: Available agents = 2
+DEBUG 2025-05-11: Tour times range from 2025-05-11 16:00:00 to 2025-05-11 17:45:00
+DEBUG 2025-05-11: Processing tour 1/2: 2025-05-11 16:00:00 at Property 64939 (ESCORTED)
+DEBUG 2025-05-11: Tour 1 assigned to 25ffdb26
+DEBUG 2025-05-11: Travel time = 0.0 minutes
+DEBUG 2025-05-11: Processing tour 2/2: 2025-05-11 17:15:00 at Property 64942 (ESCORTED)
+DEBUG 2025-05-11: Tour 2 assigned to 2d4a3e78
+DEBUG 2025-05-11: Travel time = 0.0 minutes
+DEBUG 2025-05-11: Optimized travel = 0.0 minutes
+DEBUG 2025-05-11: Savings = 0.0 minutes
+DEBUG 2025-05-11: Reassignments made = 0/2
+DEBUG 2025-05-11: Optimization complete
+================================================================================
+DEBUG 2025-05-11: Calculated optimized travel (sum method): 0.0
+DEBUG 2025-05-11: Validated optimized travel (proven method): 0.0
+DEBUG 2025-05-11: Difference: 0.0
+DEBUG 2025-05-11: Validated savings: 0.0
+DEBUG 2025-05-11: Starting optimization
+DEBUG 2025-05-11: Current travel = 0.0 minutes
+DEBUG 2025-05-11: Total tours = 2
+DEBUG 2025-05-11: Available agents = 2
+DEBUG 2025-05-11: Tour times range from 2025-05-11 16:00:00 to 2025-05-11 17:45:00
+DEBUG 2025-05-11: Processing tour 1/2: 2025-05-11 16:00:00 at Property 64939 (ESCORTED)
+DEBUG 2025-05-11: Tour 1 assigned to 25ffdb26
+DEBUG 2025-05-11: Travel time = 0.0 minutes
+DEBUG 2025-05-11: Processing tour 2/2: 2025-05-11 17:15:00 at Property 64942 (ESCORTED)
+DEBUG 2025-05-11: Tour 2 assigned to 2d4a3e78
+DEBUG 2025-05-11: Travel time = 0.0 minutes
+DEBUG 2025-05-11: Calculated optimized travel (sum method): 0.0
+DEBUG 2025-05-11: Validated optimized travel (proven method): 0.0
+DEBUG 2025-05-11: Difference: 0.0
+DEBUG 2025-05-11: Validated savings: 0.0
+DEBUG 2025-05-11: Reassignments made = 0/2
+DEBUG 2025-05-11: Optimization complete
+================================================================================

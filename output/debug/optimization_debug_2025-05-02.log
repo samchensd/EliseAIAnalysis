@@ -1,0 +1,512 @@
+DEBUG 2025-05-02: Starting optimization
+DEBUG 2025-05-02: Current travel = 65.7 minutes
+DEBUG 2025-05-02: Total tours = 35
+DEBUG 2025-05-02: Available agents = 9
+DEBUG 2025-05-02: Tour times range from 2025-05-02 13:00:00 to 2025-05-02 22:00:00
+DEBUG 2025-05-02: Processing tour 1/35: 2025-05-02 13:00:00 at Property 64936 (ESCORTED)
+DEBUG 2025-05-02: Tour 1 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 2/35: 2025-05-02 14:00:00 at Property 64932 (VIRTUAL_TOUR)
+DEBUG 2025-05-02: Tour 2 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 3/35: 2025-05-02 14:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 3 assigned to fe3fff05
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 4/35: 2025-05-02 14:00:00 at Property 64939 (ESCORTED)
+DEBUG 2025-05-02: Tour 4 assigned to 2d4a3e78
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 5/35: 2025-05-02 14:30:00 at Property 64934 (ESCORTED)
+DEBUG 2025-05-02: Tour 5 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: c99885bc → New: a53a3391
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 6/35: 2025-05-02 14:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 6 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: a53a3391 → New: 90976d80
+DEBUG 2025-05-02: Travel change: 5.0 → 0.0 (difference: 5.0)
+DEBUG 2025-05-02: Processing tour 7/35: 2025-05-02 14:30:00 at Property 64939 (VIRTUAL_TOUR)
+DEBUG 2025-05-02: Tour 7 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: 25ffdb26
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 8/35: 2025-05-02 14:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 8 assigned to c99885bc
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: c99885bc
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 9/35: 2025-05-02 14:30:00 at Property 64933 (ESCORTED)
+DEBUG 2025-05-02: Tour 9 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 10/35: 2025-05-02 15:30:00 at Property 64942 (ESCORTED)
+DEBUG 2025-05-02: Tour 10 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: 28be1402
+DEBUG 2025-05-02: Travel change: 7.7 → 0.0 (difference: 7.7)
+DEBUG 2025-05-02: Processing tour 11/35: 2025-05-02 15:30:00 at Property 100490 (ESCORTED)
+DEBUG 2025-05-02: Tour 11 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 7.3 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 0c398d8d
+DEBUG 2025-05-02: Travel change: 8.7 → 7.3 (difference: 1.3)
+DEBUG 2025-05-02: Processing tour 12/35: 2025-05-02 15:30:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 12 assigned to fe3fff05
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 13/35: 2025-05-02 16:00:00 at Property 64939 (ESCORTED)
+DEBUG 2025-05-02: Tour 13 assigned to 2d4a3e78
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 14/35: 2025-05-02 16:00:00 at Property 64933 (ESCORTED)
+DEBUG 2025-05-02: Tour 14 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 0c398d8d → New: 90976d80
+DEBUG 2025-05-02: Travel change: 5.0 → 5.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 15/35: 2025-05-02 16:30:00 at Property 64935 (ESCORTED)
+DEBUG 2025-05-02: Tour 15 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 25ffdb26 → New: a53a3391
+DEBUG 2025-05-02: Travel change: 5.0 → 5.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 16/35: 2025-05-02 16:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 16 assigned to c99885bc
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: c99885bc
+DEBUG 2025-05-02: Travel change: 7.7 → 0.0 (difference: 7.7)
+DEBUG 2025-05-02: Processing tour 17/35: 2025-05-02 16:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 17 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 25ffdb26
+DEBUG 2025-05-02: Travel change: 7.7 → 5.0 (difference: 2.7)
+DEBUG 2025-05-02: Processing tour 18/35: 2025-05-02 17:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 18 assigned to fe3fff05
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 19/35: 2025-05-02 17:00:00 at Property 64937 (ESCORTED)
+DEBUG 2025-05-02: Tour 19 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 5.3 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 0c398d8d
+DEBUG 2025-05-02: Travel change: 5.5 → 5.3 (difference: 0.2)
+DEBUG 2025-05-02: Processing tour 20/35: 2025-05-02 17:30:00 at Property 64942 (ESCORTED)
+DEBUG 2025-05-02: Tour 20 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 2d4a3e78 → New: 28be1402
+DEBUG 2025-05-02: Travel change: 5.0 → 0.0 (difference: 5.0)
+DEBUG 2025-05-02: Processing tour 21/35: 2025-05-02 18:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 21 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: fe3fff05 → New: aeabf7ea
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 22/35: 2025-05-02 18:00:00 at Property 64934 (VIRTUAL_TOUR)
+DEBUG 2025-05-02: Tour 22 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: c99885bc → New: 90976d80
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 23/35: 2025-05-02 18:00:00 at Property 84770 (ESCORTED)
+DEBUG 2025-05-02: Tour 23 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: aeabf7ea → New: 25ffdb26
+DEBUG 2025-05-02: Travel change: 13.9 → 5.0 (difference: 8.9)
+DEBUG 2025-05-02: Processing tour 24/35: 2025-05-02 18:00:00 at Property 64934 (ESCORTED)
+DEBUG 2025-05-02: Tour 24 assigned to 2d4a3e78
+DEBUG 2025-05-02: Travel time = 8.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 0c398d8d → New: 2d4a3e78
+DEBUG 2025-05-02: Travel change: 5.3 → 8.0 (difference: -2.7)
+WARNING 2025-05-02: Reassignment INCREASED travel by 2.7 minutes!
+DEBUG 2025-05-02: Processing tour 25/35: 2025-05-02 18:30:00 at Property 64941 (ESCORTED)
+DEBUG 2025-05-02: Tour 25 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 5.4 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: 0c398d8d
+DEBUG 2025-05-02: Travel change: 7.8 → 5.4 (difference: 2.4)
+DEBUG 2025-05-02: Processing tour 26/35: 2025-05-02 19:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 26 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: fe3fff05 → New: aeabf7ea
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 27/35: 2025-05-02 19:00:00 at Property 100490 (ESCORTED)
+DEBUG 2025-05-02: Tour 27 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: a53a3391
+DEBUG 2025-05-02: Travel change: 8.7 → 5.0 (difference: 3.7)
+DEBUG 2025-05-02: Processing tour 28/35: 2025-05-02 19:30:00 at Property 64940 (ESCORTED)
+DEBUG 2025-05-02: Tour 28 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 2d4a3e78 → New: 28be1402
+DEBUG 2025-05-02: Travel change: 8.0 → 5.0 (difference: 3.0)
+DEBUG 2025-05-02: Processing tour 29/35: 2025-05-02 20:00:00 at Property 64937 (ESCORTED)
+DEBUG 2025-05-02: Tour 29 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 5.2 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 25ffdb26
+DEBUG 2025-05-02: Travel change: 5.6 → 5.2 (difference: 0.4)
+DEBUG 2025-05-02: Processing tour 30/35: 2025-05-02 20:00:00 at Property 64933 (ESCORTED)
+DEBUG 2025-05-02: Tour 30 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 25ffdb26 → New: 90976d80
+DEBUG 2025-05-02: Travel change: 5.6 → 0.0 (difference: 5.6)
+DEBUG 2025-05-02: Processing tour 31/35: 2025-05-02 20:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 31 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: fe3fff05 → New: aeabf7ea
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 32/35: 2025-05-02 20:30:00 at Property 64941 (ESCORTED)
+DEBUG 2025-05-02: Tour 32 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 8.6 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: a53a3391
+DEBUG 2025-05-02: Travel change: 7.8 → 8.6 (difference: -0.8)
+WARNING 2025-05-02: Reassignment INCREASED travel by 0.8 minutes!
+DEBUG 2025-05-02: Processing tour 33/35: 2025-05-02 21:00:00 at Property 64937 (ESCORTED)
+DEBUG 2025-05-02: Tour 33 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 5.6 minutes
+DEBUG 2025-05-02: Processing tour 34/35: 2025-05-02 21:15:00 at Property 84770 (ESCORTED)
+DEBUG 2025-05-02: Tour 34 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 13.9 minutes
+DEBUG 2025-05-02: Processing tour 35/35: 2025-05-02 21:15:00 at Property 100490 (ESCORTED)
+DEBUG 2025-05-02: Tour 35 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 8.6 minutes
+DEBUG 2025-05-02: Optimized travel = 98.0 minutes
+DEBUG 2025-05-02: Savings = -32.4 minutes
+DEBUG 2025-05-02: Reassignments made = 24/35
+WARNING 2025-05-02: NEGATIVE SAVINGS! Optimization made things worse.
+WARNING 2025-05-02: 2 problematic reassignments found:
+  - Tour at 2025-05-02 18:00:00: 0c398d8d → 2d4a3e78 (+2.7 min)
+  - Tour at 2025-05-02 20:30:00: 90976d80 → a53a3391 (+0.8 min)
+DEBUG 2025-05-02: Optimization complete
+================================================================================
+DEBUG 2025-05-02: Starting optimization
+DEBUG 2025-05-02: Current travel = 74.0 minutes
+DEBUG 2025-05-02: Total tours = 35
+DEBUG 2025-05-02: Available agents = 9
+DEBUG 2025-05-02: Tour times range from 2025-05-02 13:00:00 to 2025-05-02 22:00:00
+DEBUG 2025-05-02: Processing tour 1/35: 2025-05-02 13:00:00 at Property 64936 (ESCORTED)
+DEBUG 2025-05-02: Tour 1 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 2/35: 2025-05-02 14:00:00 at Property 64932 (VIRTUAL_TOUR)
+DEBUG 2025-05-02: Tour 2 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 3/35: 2025-05-02 14:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 3 assigned to fe3fff05
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 4/35: 2025-05-02 14:00:00 at Property 64939 (ESCORTED)
+DEBUG 2025-05-02: Tour 4 assigned to 2d4a3e78
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 5/35: 2025-05-02 14:30:00 at Property 64934 (ESCORTED)
+DEBUG 2025-05-02: Tour 5 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: c99885bc → New: a53a3391
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 6/35: 2025-05-02 14:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 6 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: a53a3391 → New: 90976d80
+DEBUG 2025-05-02: Travel change: 5.0 → 0.0 (difference: 5.0)
+DEBUG 2025-05-02: Processing tour 7/35: 2025-05-02 14:30:00 at Property 64939 (VIRTUAL_TOUR)
+DEBUG 2025-05-02: Tour 7 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: 25ffdb26
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 8/35: 2025-05-02 14:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 8 assigned to c99885bc
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: c99885bc
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 9/35: 2025-05-02 14:30:00 at Property 64933 (ESCORTED)
+DEBUG 2025-05-02: Tour 9 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 10/35: 2025-05-02 15:30:00 at Property 64942 (ESCORTED)
+DEBUG 2025-05-02: Tour 10 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: 28be1402
+DEBUG 2025-05-02: Travel change: 6.3 → 0.0 (difference: 6.3)
+DEBUG 2025-05-02: Processing tour 11/35: 2025-05-02 15:30:00 at Property 100490 (ESCORTED)
+DEBUG 2025-05-02: Tour 11 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 7.3 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 0c398d8d
+DEBUG 2025-05-02: Travel change: 7.3 → 7.3 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 12/35: 2025-05-02 15:30:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 12 assigned to fe3fff05
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 13/35: 2025-05-02 16:00:00 at Property 64939 (ESCORTED)
+DEBUG 2025-05-02: Tour 13 assigned to 2d4a3e78
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 14/35: 2025-05-02 16:00:00 at Property 64933 (ESCORTED)
+DEBUG 2025-05-02: Tour 14 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 0c398d8d → New: 90976d80
+DEBUG 2025-05-02: Travel change: 5.0 → 5.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 15/35: 2025-05-02 16:30:00 at Property 64935 (ESCORTED)
+DEBUG 2025-05-02: Tour 15 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 25ffdb26 → New: a53a3391
+DEBUG 2025-05-02: Travel change: 5.0 → 5.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 16/35: 2025-05-02 16:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 16 assigned to c99885bc
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: c99885bc
+DEBUG 2025-05-02: Travel change: 6.3 → 0.0 (difference: 6.3)
+DEBUG 2025-05-02: Processing tour 17/35: 2025-05-02 16:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 17 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 25ffdb26
+DEBUG 2025-05-02: Travel change: 6.3 → 5.0 (difference: 1.3)
+DEBUG 2025-05-02: Processing tour 18/35: 2025-05-02 17:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 18 assigned to fe3fff05
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 19/35: 2025-05-02 17:00:00 at Property 64937 (ESCORTED)
+DEBUG 2025-05-02: Tour 19 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 5.3 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 0c398d8d
+DEBUG 2025-05-02: Travel change: 7.1 → 5.3 (difference: 1.8)
+DEBUG 2025-05-02: Processing tour 20/35: 2025-05-02 17:30:00 at Property 64942 (ESCORTED)
+DEBUG 2025-05-02: Tour 20 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 2d4a3e78 → New: 28be1402
+DEBUG 2025-05-02: Travel change: 7.9 → 0.0 (difference: 7.9)
+DEBUG 2025-05-02: Processing tour 21/35: 2025-05-02 18:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 21 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: fe3fff05 → New: aeabf7ea
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 22/35: 2025-05-02 18:00:00 at Property 64934 (VIRTUAL_TOUR)
+DEBUG 2025-05-02: Tour 22 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: c99885bc → New: 90976d80
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 23/35: 2025-05-02 18:00:00 at Property 84770 (ESCORTED)
+DEBUG 2025-05-02: Tour 23 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: aeabf7ea → New: 25ffdb26
+DEBUG 2025-05-02: Travel change: 13.9 → 5.0 (difference: 8.9)
+DEBUG 2025-05-02: Processing tour 24/35: 2025-05-02 18:00:00 at Property 64934 (ESCORTED)
+DEBUG 2025-05-02: Tour 24 assigned to 2d4a3e78
+DEBUG 2025-05-02: Travel time = 8.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 0c398d8d → New: 2d4a3e78
+DEBUG 2025-05-02: Travel change: 5.3 → 8.0 (difference: -2.7)
+WARNING 2025-05-02: Reassignment INCREASED travel by 2.7 minutes!
+DEBUG 2025-05-02: Processing tour 25/35: 2025-05-02 18:30:00 at Property 64941 (ESCORTED)
+DEBUG 2025-05-02: Tour 25 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 5.4 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: 0c398d8d
+DEBUG 2025-05-02: Travel change: 7.8 → 5.4 (difference: 2.4)
+DEBUG 2025-05-02: Processing tour 26/35: 2025-05-02 19:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 26 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: fe3fff05 → New: aeabf7ea
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 27/35: 2025-05-02 19:00:00 at Property 100490 (ESCORTED)
+DEBUG 2025-05-02: Tour 27 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: a53a3391
+DEBUG 2025-05-02: Travel change: 7.3 → 5.0 (difference: 2.3)
+DEBUG 2025-05-02: Processing tour 28/35: 2025-05-02 19:30:00 at Property 64940 (ESCORTED)
+DEBUG 2025-05-02: Tour 28 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 7.8 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 2d4a3e78 → New: 28be1402
+DEBUG 2025-05-02: Travel change: 8.0 → 7.8 (difference: 0.2)
+DEBUG 2025-05-02: Processing tour 29/35: 2025-05-02 20:00:00 at Property 64937 (ESCORTED)
+DEBUG 2025-05-02: Tour 29 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 5.2 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 25ffdb26
+DEBUG 2025-05-02: Travel change: 5.6 → 5.2 (difference: 0.4)
+DEBUG 2025-05-02: Processing tour 30/35: 2025-05-02 20:00:00 at Property 64933 (ESCORTED)
+DEBUG 2025-05-02: Tour 30 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 25ffdb26 → New: 90976d80
+DEBUG 2025-05-02: Travel change: 5.6 → 0.0 (difference: 5.6)
+DEBUG 2025-05-02: Processing tour 31/35: 2025-05-02 20:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 31 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: fe3fff05 → New: aeabf7ea
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 32/35: 2025-05-02 20:30:00 at Property 64941 (ESCORTED)
+DEBUG 2025-05-02: Tour 32 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 8.6 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: a53a3391
+DEBUG 2025-05-02: Travel change: 7.8 → 8.6 (difference: -0.8)
+WARNING 2025-05-02: Reassignment INCREASED travel by 0.8 minutes!
+DEBUG 2025-05-02: Processing tour 33/35: 2025-05-02 21:00:00 at Property 64937 (ESCORTED)
+DEBUG 2025-05-02: Tour 33 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 5.6 minutes
+DEBUG 2025-05-02: Processing tour 34/35: 2025-05-02 21:15:00 at Property 84770 (ESCORTED)
+DEBUG 2025-05-02: Tour 34 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 13.9 minutes
+DEBUG 2025-05-02: Processing tour 35/35: 2025-05-02 21:15:00 at Property 100490 (ESCORTED)
+DEBUG 2025-05-02: Tour 35 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 8.6 minutes
+DEBUG 2025-05-02: Optimized travel = 100.8 minutes
+DEBUG 2025-05-02: Savings = -26.9 minutes
+DEBUG 2025-05-02: Reassignments made = 24/35
+WARNING 2025-05-02: NEGATIVE SAVINGS! Optimization made things worse.
+WARNING 2025-05-02: 2 problematic reassignments found:
+  - Tour at 2025-05-02 18:00:00: 0c398d8d → 2d4a3e78 (+2.7 min)
+  - Tour at 2025-05-02 20:30:00: 90976d80 → a53a3391 (+0.8 min)
+DEBUG 2025-05-02: Optimization complete
+================================================================================
+DEBUG 2025-05-02: Calculated optimized travel (sum method): 100.8
+DEBUG 2025-05-02: Validated optimized travel (proven method): 74.0
+DEBUG 2025-05-02: Difference: 26.9
+DEBUG 2025-05-02: Validated savings: 0.0
+DEBUG 2025-05-02: Starting optimization
+DEBUG 2025-05-02: Current travel = 74.0 minutes
+DEBUG 2025-05-02: Total tours = 35
+DEBUG 2025-05-02: Available agents = 9
+DEBUG 2025-05-02: Tour times range from 2025-05-02 13:00:00 to 2025-05-02 22:00:00
+DEBUG 2025-05-02: Processing tour 1/35: 2025-05-02 13:00:00 at Property 64936 (ESCORTED)
+DEBUG 2025-05-02: Tour 1 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 2/35: 2025-05-02 14:00:00 at Property 64932 (VIRTUAL_TOUR)
+DEBUG 2025-05-02: Tour 2 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 3/35: 2025-05-02 14:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 3 assigned to fe3fff05
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 4/35: 2025-05-02 14:00:00 at Property 64939 (ESCORTED)
+DEBUG 2025-05-02: Tour 4 assigned to 2d4a3e78
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 5/35: 2025-05-02 14:30:00 at Property 64934 (ESCORTED)
+DEBUG 2025-05-02: Tour 5 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: c99885bc → New: a53a3391
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 6/35: 2025-05-02 14:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 6 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: a53a3391 → New: 90976d80
+DEBUG 2025-05-02: Travel change: 6.3 → 0.0 (difference: 6.3)
+DEBUG 2025-05-02: Processing tour 7/35: 2025-05-02 14:30:00 at Property 64939 (VIRTUAL_TOUR)
+DEBUG 2025-05-02: Tour 7 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: 25ffdb26
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 8/35: 2025-05-02 14:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 8 assigned to c99885bc
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: c99885bc
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 9/35: 2025-05-02 14:30:00 at Property 64933 (ESCORTED)
+DEBUG 2025-05-02: Tour 9 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 10/35: 2025-05-02 15:30:00 at Property 64942 (ESCORTED)
+DEBUG 2025-05-02: Tour 10 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: 28be1402
+DEBUG 2025-05-02: Travel change: 6.3 → 0.0 (difference: 6.3)
+DEBUG 2025-05-02: Processing tour 11/35: 2025-05-02 15:30:00 at Property 100490 (ESCORTED)
+DEBUG 2025-05-02: Tour 11 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 7.3 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 0c398d8d
+DEBUG 2025-05-02: Travel change: 7.3 → 7.3 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 12/35: 2025-05-02 15:30:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 12 assigned to fe3fff05
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 13/35: 2025-05-02 16:00:00 at Property 64939 (ESCORTED)
+DEBUG 2025-05-02: Tour 13 assigned to 2d4a3e78
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 14/35: 2025-05-02 16:00:00 at Property 64933 (ESCORTED)
+DEBUG 2025-05-02: Tour 14 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 0c398d8d → New: 90976d80
+DEBUG 2025-05-02: Travel change: 5.0 → 5.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 15/35: 2025-05-02 16:30:00 at Property 64935 (ESCORTED)
+DEBUG 2025-05-02: Tour 15 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: Processing tour 16/35: 2025-05-02 16:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 16 assigned to c99885bc
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: c99885bc
+DEBUG 2025-05-02: Travel change: 6.3 → 0.0 (difference: 6.3)
+DEBUG 2025-05-02: Processing tour 17/35: 2025-05-02 16:30:00 at Property 64932 (ESCORTED)
+DEBUG 2025-05-02: Tour 17 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 6.3 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: a53a3391
+DEBUG 2025-05-02: Travel change: 6.3 → 6.3 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 18/35: 2025-05-02 17:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 18 assigned to fe3fff05
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: Processing tour 19/35: 2025-05-02 17:00:00 at Property 64937 (ESCORTED)
+DEBUG 2025-05-02: Tour 19 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 5.3 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 0c398d8d
+DEBUG 2025-05-02: Travel change: 7.1 → 5.3 (difference: 1.8)
+DEBUG 2025-05-02: Processing tour 20/35: 2025-05-02 17:30:00 at Property 64942 (ESCORTED)
+DEBUG 2025-05-02: Tour 20 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 2d4a3e78 → New: 28be1402
+DEBUG 2025-05-02: Travel change: 7.9 → 0.0 (difference: 7.9)
+DEBUG 2025-05-02: Processing tour 21/35: 2025-05-02 18:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 21 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: fe3fff05 → New: aeabf7ea
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 22/35: 2025-05-02 18:00:00 at Property 64934 (VIRTUAL_TOUR)
+DEBUG 2025-05-02: Tour 22 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: c99885bc → New: a53a3391
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 23/35: 2025-05-02 18:00:00 at Property 84770 (ESCORTED)
+DEBUG 2025-05-02: Tour 23 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: aeabf7ea → New: 90976d80
+DEBUG 2025-05-02: Travel change: 13.9 → 5.0 (difference: 8.9)
+DEBUG 2025-05-02: Processing tour 24/35: 2025-05-02 18:00:00 at Property 64934 (ESCORTED)
+DEBUG 2025-05-02: Tour 24 assigned to 2d4a3e78
+DEBUG 2025-05-02: Travel time = 7.9 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 0c398d8d → New: 2d4a3e78
+DEBUG 2025-05-02: Travel change: 7.1 → 7.9 (difference: -0.8)
+WARNING 2025-05-02: Reassignment INCREASED travel by 0.8 minutes!
+DEBUG 2025-05-02: Processing tour 25/35: 2025-05-02 18:30:00 at Property 64941 (ESCORTED)
+DEBUG 2025-05-02: Tour 25 assigned to 0c398d8d
+DEBUG 2025-05-02: Travel time = 5.4 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: 0c398d8d
+DEBUG 2025-05-02: Travel change: 8.5 → 5.4 (difference: 3.1)
+DEBUG 2025-05-02: Processing tour 26/35: 2025-05-02 19:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 26 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: fe3fff05 → New: aeabf7ea
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 27/35: 2025-05-02 19:00:00 at Property 100490 (ESCORTED)
+DEBUG 2025-05-02: Tour 27 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: 90976d80
+DEBUG 2025-05-02: Travel change: 7.3 → 5.0 (difference: 2.3)
+DEBUG 2025-05-02: Processing tour 28/35: 2025-05-02 19:30:00 at Property 64940 (ESCORTED)
+DEBUG 2025-05-02: Tour 28 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 7.8 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 2d4a3e78 → New: 28be1402
+DEBUG 2025-05-02: Travel change: 7.8 → 7.8 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 29/35: 2025-05-02 20:00:00 at Property 64937 (ESCORTED)
+DEBUG 2025-05-02: Tour 29 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: a53a3391
+DEBUG 2025-05-02: Travel change: 5.6 → 5.0 (difference: 0.6)
+DEBUG 2025-05-02: Processing tour 30/35: 2025-05-02 20:00:00 at Property 64933 (ESCORTED)
+DEBUG 2025-05-02: Tour 30 assigned to 90976d80
+DEBUG 2025-05-02: Travel time = 5.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 25ffdb26 → New: 90976d80
+DEBUG 2025-05-02: Travel change: 5.0 → 5.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 31/35: 2025-05-02 20:00:00 at Property 64938 (ESCORTED)
+DEBUG 2025-05-02: Tour 31 assigned to aeabf7ea
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: fe3fff05 → New: aeabf7ea
+DEBUG 2025-05-02: Travel change: 0.0 → 0.0 (difference: 0.0)
+DEBUG 2025-05-02: Processing tour 32/35: 2025-05-02 20:30:00 at Property 64941 (ESCORTED)
+DEBUG 2025-05-02: Tour 32 assigned to 25ffdb26
+DEBUG 2025-05-02: Travel time = 7.9 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 90976d80 → New: 25ffdb26
+DEBUG 2025-05-02: Travel change: 7.8 → 7.9 (difference: -0.1)
+WARNING 2025-05-02: Reassignment INCREASED travel by 0.1 minutes!
+DEBUG 2025-05-02: Processing tour 33/35: 2025-05-02 21:00:00 at Property 64937 (ESCORTED)
+DEBUG 2025-05-02: Tour 33 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 0.0 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: 28be1402 → New: a53a3391
+DEBUG 2025-05-02: Travel change: 5.6 → 0.0 (difference: 5.6)
+DEBUG 2025-05-02: Processing tour 34/35: 2025-05-02 21:15:00 at Property 84770 (ESCORTED)
+DEBUG 2025-05-02: Tour 34 assigned to 28be1402
+DEBUG 2025-05-02: Travel time = 8.8 minutes
+DEBUG 2025-05-02: REASSIGNMENT - Original: aeabf7ea → New: 28be1402
+DEBUG 2025-05-02: Travel change: 13.9 → 8.8 (difference: 5.1)
+DEBUG 2025-05-02: Processing tour 35/35: 2025-05-02 21:15:00 at Property 100490 (ESCORTED)
+DEBUG 2025-05-02: Tour 35 assigned to a53a3391
+DEBUG 2025-05-02: Travel time = 5.3 minutes
+DEBUG 2025-05-02: Calculated optimized travel (sum method): 92.1
+DEBUG 2025-05-02: Validated optimized travel (proven method): 74.0
+DEBUG 2025-05-02: Difference: 18.1
+DEBUG 2025-05-02: Validated savings: 0.0
+DEBUG 2025-05-02: Reassignments made = 25/35
+WARNING 2025-05-02: Very high reassignment rate (71.4%) - algorithm may be too aggressive
+DEBUG 2025-05-02: Optimization complete
+================================================================================

@@ -1,0 +1,22 @@
+{
+  "analysis_date": "2025-06-29T15:28:43.886427",
+  "total_events": 696,
+  "total_agents": 28,
+  "total_properties": 16,
+  "total_travel_time_minutes": 2028.7828430049556,
+  "total_travel_time_hours": 33.81304738341593,
+  "total_travel_segments": 287,
+  "escorted_tours": 648,
+  "virtual_tours": 48,
+  "current_monthly_cost": 676.2609476683185,
+  "current_annual_cost": 8115.131372019822,
+  "optimization_completed": true,
+  "optimized_travel_time_minutes": 2050.2194363153835,
+  "potential_savings_minutes": -21.436593310427952,
+  "savings_percentage": -1.0566233534722174,
+  "total_reassignments": 404,
+  "reassignment_rate": 58.04597701149425,
+  "monthly_savings_potential": -7.145531103475983,
+  "annual_savings_potential": -85.74637324171181,
+  "implementation_feasibility": "MEDIUM"
+}
