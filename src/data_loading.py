@@ -73,4 +73,3 @@ def setup_database(event_log, agent_mapping, property_mapping):
     conn.close()
     return "Database created successfully"
 
-event_log, agent_mapping, property_mapping = load_excel_data('data/Agent Calendar Practical Materials.xlsx')

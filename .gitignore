@@ -1,0 +1,10 @@
+# Ignore Python cache files and environment artifacts
+__pycache__/
+*.py[cod]
+
+# Ignore data outputs and logs
+output/
+*.csv
+*.db
+*.png
+*.txt
